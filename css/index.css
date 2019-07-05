@@ -1,0 +1,92 @@
+body {
+    background-color: silver;
+    text-align: right;
+}
+
+form {
+    background-color: white;
+    margin: 0 auto;
+    width: 1275x;
+    height: 510px;
+    padding: 1em;
+    border: 1px double#CCC;
+    border-radius: 1em;
+    border-color: black;
+    text-align: left;
+    margin-left: 1em;
+
+}
+
+hr {
+    border-color: black;
+    border: 1px solid black;
+}
+
+#branco {
+    background-color: rgba(202, 216, 216, 0.521);
+}
+
+#corrige {
+    background-color: lightcoral;
+}
+
+#confirma {
+    background-color: lightgreen;
+}
+
+#admin {
+    background-color: silver;
+    align-content: right;
+}
+
+header {
+    text-align: right;
+}
+#caixa{
+     color: black;
+      font-weight:900;
+       margin-top:0px;
+        padding-left:10px;
+         font-size:40px;
+}
+.bottom{
+    margin-left: 59em;
+    margin-top: -27em;
+    display:block;
+    width: 8em;
+    height: 12em;
+    font-weight:bold;
+    color:black;
+    border:none;
+}
+#numeros{
+    margin-left: 60em;
+    margin-top: -18em;
+    display:block;
+    width:80px;
+    height:26px;
+    font-weight:bold;
+    color:black;
+    border:none;
+}
+.img-borda{
+    background-color: white;
+    margin: 0 auto;
+    width: 30em;
+    height: 30em;
+    padding: 1em;
+    border: 1px double#CCC;
+    border-radius: 1em;
+    border-color: white;
+    text-align: center;
+    align-content: center;
+    margin-left: 23em;
+    position: absolute;
+
+}
+
+img {
+    width: 25em;
+    height: 30em;
+    border-radius: 3em;
+}
